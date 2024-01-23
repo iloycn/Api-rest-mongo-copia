@@ -1,0 +1,44 @@
+[
+  {
+    "nombre": "Hinata Shoyo",
+    "fecha": "12/5/2003",
+    "detalles": "Jugador del equipo Karasuno y juega como Bloqueador Central",
+    "altura": 162
+  },
+  {
+    "nombre": "Kageyama Tobio",
+    "fecha": "21/6/2003",
+    "detalles": "Jugador del equipo Karasuno y juega como Colocador",
+    "altura": 184
+  },
+  {
+    "nombre": "Nishinoya Yuu",
+    "fecha": "15/3/2002",
+    "detalles": "Jugador del equipo Karasuno y juega como Libero",
+    "altura": 160
+  },
+  {
+    "nombre": "Daichi Sawamura",
+    "fecha": "22/6/2001",
+    "detalles": "Jugador del equipo Karasuno y juega como Opuesto",
+    "altura": 180
+  },
+  {
+    "nombre": "Oikawa Tooru",
+    "fecha": "12/1/2001",
+    "detalles": "Jugador del equipo Aoba Johsai y juega como Colocador",
+    "altura": 184
+  },
+  {
+    "nombre": "Kuroo Tetsurou",
+    "fecha": "18/11/2002",
+    "detalles": "Jugador del equipo Nekoma y juega como Bloqueador Central",
+    "altura": 187
+  },
+  {
+    "nombre": "Kenma Kozume",
+    "fecha": "4/8/2003",
+    "detalles": "Jugador del equipo Nekoma y juega como Colocador",
+    "altura": 170
+  }
+]
